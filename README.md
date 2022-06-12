@@ -1,70 +1,22 @@
-### Hey! Nice to see you! 
-<a href="https://www.instagram.com/twinkll_sisodia/">
-  <img align="left" alt="Twinkll's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/twinkllsisodia">
-  <img align="left" alt="Twinkll Sisodia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/twinkllsisodia/">
-  <img align="left" alt="Twinkll's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-Hi, I'm Twinkll Sisodia, a passionate Software Engineer working at Red Hat. My passion for software lies with dreaming up ideas and implementing them. 
-
-I am also an open-source contributor. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 ask me about anything, I am happy to help [email](twinkllsisodia10@gmail.com)
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   19 hrs 21 mins  █████████████████████░░░░   83.78 %
-JavaScript   2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-CSS          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+![Twinkll Sisodia (4)](https://user-images.githubusercontent.com/67011812/173255889-796cdcb6-f83c-4996-84bc-d5428a030ba9.png)
 
 
 
+I'm a Software Engineer working at Red Hat. I am passionate about contributing to open-source projects, talking about kubernetes and cloud native applications and creating technologies to elevate people. Some technologies I enjoy working with include Golang, C++, Kubernetes, Podman, Grafana, Prometheus, Thanos and many more to count. Watch me talking about Kubernetes at the the (DevConf conference 2022)[https://www.devconf.info/us/].
 
+Here are some ideas to get you started:
+
+- 🌱 I’m interested in all things around Kubernetes and Cloud
+- 👯 I’m looking to collaborate on more open-source projects
+- ⚡ Fun fact: I can calculate two-digit number's cube in 5 seconds!
+
+[![Twinkll's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsisodia10&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsisodia10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsisodia10&theme=radical)](https://git.io/streak-stats)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.twitter.com/twinkllsisodia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/twinkllsisodia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="twinkllsisodia10@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+</p>
