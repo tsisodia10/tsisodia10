@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on more open-source projects
 - ⚡ Fun fact: I can calculate two-digit number's cube in 5 seconds!
 
-[![Twinkll's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsisodia10&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsisodia10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Twinkll's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsisodia10&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsisodia10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsisodia10&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsisodia10&theme=dracula)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
