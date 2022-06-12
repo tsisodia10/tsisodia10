@@ -29,7 +29,7 @@ I'm a Software Engineer working at ![Red Hat](https://img.shields.io/badge/Red%2
 
 ### Lets connect through:
 <a href="https://www.linkedin.com/in/twinkllsisodia/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="twinkllsisodia10@gmail.com/"><img src="https://img.icons8.com/fluency/48/undefined/gmail-new.png"/></a>
+<a href="www.instagram.com/twinkll_sisodia/"><img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png"/></a>
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
