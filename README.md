@@ -19,7 +19,7 @@ I'm a Software Engineer working at ![Red Hat](https://img.shields.io/badge/Red%2
 <br>
 <br>
 
-![Twinkll's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsisodia10&hide=stars&count_private=true&show_icons=true&theme=dracula) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Bhumika Tewary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsisodia10&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+![Twinkll's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsisodia10&hide=stars&count_private=true&show_icons=true&theme=dracula) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Twinkll Sisodia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsisodia10&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
 
