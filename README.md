@@ -2,7 +2,7 @@
 
 <br>
 
-I'm a Software Engineer working at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) I am passionate about contributing to open-source projects, talking about kubernetes and cloud native applications and creating technologies to elevate people. Some technologies I enjoy working with include Golang, C++, Kubernetes, Podman, Grafana, Prometheus, Thanos and many more to count. Watch me talking about Kubernetes at the the DevConf conference 2022.
+I'm a Software Engineer working at ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) I am passionate about contributing to open-source projects, talking about kubernetes and cloud native applications and creating technologies to elevate people. Some technologies I enjoy working with include Golang, C++, Kubernetes, Podman, Grafana, Prometheus, Thanos and many more to count. Watch me talking about Kubernetes at the DevConf conference 2022.
 
 
 - 🌱 I’m interested in all things around Kubernetes and Cloud
