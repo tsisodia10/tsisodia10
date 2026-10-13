@@ -5,13 +5,7 @@ Building production GenAI and LLM inference on Kubernetes.
 
 ## Open source
 
-- [llm-d](https://github.com/llm-d) — distributed LLM inference
-- [KServe](https://github.com/kserve/kserve) — model serving on Kubernetes
 - Open Data Hub / OpenShift AI platform contributions
-
-## Path so far
-
-Kubernetes operators → OpenShift AI & partner integrations → LLM inference & observability → [llm-d](https://github.com/llm-d)
 
 ## Talks
 
